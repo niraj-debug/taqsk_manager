@@ -206,7 +206,7 @@ export default function TaskModal({
     };
 
     return (
-        <div className="fixed inset-0 bg-black/50 dark:bg-black/70 backdrop-blur-md flex items-end sm:items-center justify-center z-50 p-0 sm:p-4">
+        <div className="fixed inset-0 bg-black/50 dark:bg-black/70 backdrop-blur-md flex items-end sm:items-center justify-center z-[9999] p-0 sm:p-4">
             <div
                 className={`
                     bg-white dark:bg-[#111318]
